@@ -1,0 +1,21 @@
+{
+  	"name": "2simpleMigrate",
+  	"version": "0.0.1",
+  	"description": "2simpleMigrate",
+  	"main": "web.js",
+    "repository": {
+    },
+  	"scripts": {
+    	"test": "echo \"Error: no test specified\" && exit 1"
+ 	 },
+  	"author": "jgrindall",
+  	"license": "BSD",
+  	"dependencies": {
+		  "mkdirp":"latest",
+      "pegjs":"latest",
+		  "bluebird":"latest",
+		  "underscore":"latest"
+  	}
+}
+
+
